@@ -1,6 +1,5 @@
 package dev.userservice.controllers;
 
-import dev.deepak.userservicetestfinal.dtos.*;
 import dev.userservice.dtos.*;
 import dev.userservice.exceptions.UserDoesNotExistsException;
 import dev.userservice.models.SessionStatus;
