@@ -1,8 +1,8 @@
 package dev.userservice.controllers;
 
+import dev.userservice.dtos.CreateRoleRequestDto;
 import dev.userservice.models.Role;
 import dev.userservice.services.RoleService;
-import dev.userservice.dtos.CreateRoleRequestDto;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
